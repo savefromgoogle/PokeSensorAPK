@@ -1,6 +1,6 @@
 
-# PokeMapperAPK
-The official APK download for PokeMapper
+# PokeSensorAPK
+The official APK download for PokeSensor
 
 # Source
-Get the source at https://github.com/MrPat/PokeMapper
+Get the source at https://github.com/MrPat/PokeSensor
